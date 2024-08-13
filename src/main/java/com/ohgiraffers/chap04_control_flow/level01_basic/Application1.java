@@ -15,6 +15,5 @@ public class Application1 {
             System.out.println("양수가 아니다.");
         }
     }
-
 }
 

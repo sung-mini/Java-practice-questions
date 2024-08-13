@@ -20,4 +20,3 @@ public class Application2 {
 //         System.out.println("String 합계 : " + sum(strArray));  // 컴파일 에러 발생
     }
 }
-
